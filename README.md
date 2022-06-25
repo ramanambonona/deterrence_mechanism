@@ -34,7 +34,7 @@ $$ EU_{p,q} = b - qs + h(p(1-q) +q)$$
 Note that $b-qs$ is the expected benefit and $h(p(1-p)+q)$ the expected damage.
 
 ## Proposition 1
-If detection is uncertain, conviction is also uncertain because, since the two events are dependent, the offender anticipates a monetary benefit b
+If detection is uncertain, conviction is also uncertain because, since the two events are dependent, the offender expects a monetary benefit b
 ## Proof 1
 As $p =0$, $q$ must necessarily be equal to zero because the two events are dependent
 $E_{0,0} = b$
