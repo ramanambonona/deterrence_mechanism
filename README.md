@@ -50,4 +50,4 @@ This means that conviction depends on detection. Law enforcer can only punish if
 ## Proposition 3
 If the detection is at the optimum, the damage is eliminated by acting on $p$, we obtain $h = 0$.
 ## Proof 3
-By acting on $p$, $frac{partialE}{partialp}=0, h((1-q) +q)=0 \Longrightarrow h =0$
+By acting on $p$, $\frac{partialE}{partialp}=0, h((1-q) +q)=0 \Longrightarrow h =0$
