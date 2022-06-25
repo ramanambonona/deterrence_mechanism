@@ -43,11 +43,11 @@ $E_{0,0} = b$
 ## Proposition 2
 If the arrest is certain, the harm is repaired and whatever the value of the probability of conviction, we obtain the canonial form of the Becker $b-qs$ deterrence model
 ## Proof 2
-Proof: If $p=1$, for any $q$, $ EU_{1,q} = b - qs + h((1-q) +q)$, so $E_{1,q} = b-qs$
+Proof: If $p=1$, for any $q$, $EU_{1,q}=b-qs+h((1-q)+q)$, so $E_{1,q} = b-qs$
 
-This means that conviction depends on detection. Law enforcer can only punish if the offender is arrested. So to satisfy the condition of deterrence and damage compensation and before applying the punishment, it is necessary that p =1. In other words, it is necessary that the arrest be certain so that the damage is compensated for in order to subsequently apply the punishment.
+This means that conviction depends on detection. Law enforcer can only punish if the offender is arrested. So to satisfy the condition of deterrence and damage compensation and before applying the punishment, it is necessary that $p=1$. In other words, it is necessary that the arrest be certain so that the damage is compensated for in order to subsequently apply the punishment.
 
 ## Proposition 3
 If the detection is at the optimum, the damage is eliminated by acting on $p$, we obtain $h = 0$.
 ## Proof 3
-By acting on $p$, $\frac{\partialE}{\partialp}=0, h((1-q) +q)=0 \Longrightarrow h =0$
+By acting on $p$, $\frac{\partial E}{\partial p}=0$, $h((1-q) +q)=0$ $\Longrightarrow h =0$
