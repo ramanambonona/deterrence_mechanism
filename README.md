@@ -1,4 +1,4 @@
-# On The Economic of Law Enforcement : Harm Reparing and Deterrence Mechanisms
+# On The Economic of Law Enforcement : Harm Repairing and Deterrence Mechanisms
 In the context of illegal activity resulting in damage to victims, it is appropriate first to repair the harm and then to apply punishment. However, it is impossible to proceed with the compensation of damages if the perpetrator of the prejudicial act is not detected. Thereafter, the legal procedure of applying the punishment succeeds the compensation of damage. This article aims at combining the civil procedure of compensation (tort procedure) and the criminal procedure (legal procedure) of enforcement of the law.
 
 In order to achieve our goal of repairing damages while deterring illegal activities, we use the following assumptions :
